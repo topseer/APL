@@ -54,8 +54,3 @@ for i in contractors["Pkey"]:
 conn.commit()    
 cur.close()
 conn.close()
-
-
-
-
-    
